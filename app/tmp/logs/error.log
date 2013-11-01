@@ -1,0 +1,1144 @@
+2013-10-10 02:54:52 Error: [MissingActionException] Action ClientesController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'view',
+)
+Request URL: /clinica/clientes/view/1
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-19 23:12:06 Error: [MissingActionException] Action ClientesController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'add',
+)
+Request URL: /clinica/clientes/add
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-19 23:12:14 Error: [MissingActionException] Action ClientesController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'view',
+)
+Request URL: /clinica/clientes/view/1
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-19 23:55:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-19 23:57:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-19 23:58:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-19 23:59:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 00:44:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 00:47:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 00:52:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 00:55:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 00:56:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:07:06 Error: Fatal Error (1): Call to a member function create() on a non-object in [C:\wamp\www\clinica\app\Controller\ClientesController.php, line 36]
+2013-10-20 01:07:06 Error: [FatalErrorException] Call to a member function create() on a non-object
+Request URL: /clinica/clientes/add
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\cli...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\cli...', 36, Array)
+#2 C:\wamp\www\clinica\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\cli...', 36, Array)
+#3 C:\wamp\www\clinica\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-20 01:07:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:08:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:11:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:24:31 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:26:14 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:17 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:20 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:22 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:28 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:26:29 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:26:29 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:26:34 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:36 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:40 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:41 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:43 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:26:43 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:30:26 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:34:41 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:34:50 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:36:20 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:36:52 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:37:27 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:37:30 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:26 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:41:30 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:32 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:33 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:34 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:35 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:36 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:36 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:37 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:41:38 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:42:21 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:42:52 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 01:42:54 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:43:12 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:52:20 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:52:23 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:52:25 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:52:28 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:52:29 Error: [MissingActionException] Action ClientesController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClientesController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/clientes/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-20 01:52:42 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:39:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:50:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:50:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:50:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:52:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:52:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:53:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:57:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:58:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 02:58:16 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\wamp\www\clinica\app\Controller\ClientesController.php, line 38]
+2013-10-20 02:58:16 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /clinica/clientes/add
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\wamp\www\cli...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\wamp\www\cli...', 38, Array)
+#2 C:\wamp\www\clinica\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\wamp\www\cli...', 38, Array)
+#3 C:\wamp\www\clinica\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-20 02:58:41 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\wamp\www\clinica\app\Controller\ClientesController.php, line 38]
+2013-10-20 02:58:41 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /clinica/clientes/add
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\wamp\www\cli...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\wamp\www\cli...', 38, Array)
+#2 C:\wamp\www\clinica\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\wamp\www\cli...', 38, Array)
+#3 C:\wamp\www\clinica\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-20 03:19:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:20:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:20:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:26:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:32:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:33:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:38:52 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:38:52 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:38:52 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/fonts/glyphicons-halflings-regular.svg
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-20 03:41:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-21 03:23:11 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-21 03:23:11 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-21 03:23:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/fonts/glyphicons-halflings-regular.svg
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-21 03:24:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-21 04:01:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-21 04:12:49 Error: Fatal Error (1): Call to a member function findById() on a non-object in [C:\wamp\www\clinica\app\Controller\ClientesController.php, line 49]
+2013-10-21 04:12:49 Error: [FatalErrorException] Call to a member function findById() on a non-object
+Request URL: /clinica/clientes/edit/17
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\cli...', 49)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\cli...', 49, Array)
+#2 C:\wamp\www\clinica\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\cli...', 49, Array)
+#3 C:\wamp\www\clinica\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-25 03:18:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:27:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/assets/js/holder.js
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:27:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/assets/js/jquery.js
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:27:25 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/dist/css/bootstrap.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:27:25 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/dist/js/bootstrap.min.js
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:27:25 Error: [NotFoundException] Invalid user
+Request URL: /clinica/users/view/theme.css
+Stack Trace:
+#0 [internal function]: UsersController->view('theme.css')
+#1 C:\wamp\www\clinica\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-10-25 03:27:25 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/dist/css/bootstrap-theme.min.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:27:39 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:27:40 Error: [MissingActionException] Action UsersController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/users/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-25 03:28:25 Error: [MissingActionException] Action UsersController::theme.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'theme.css',
+)
+Request URL: /clinica/users/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-25 03:28:48 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:31:47 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:31:49 Error: [MissingControllerException] Controller class Theme.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Theme.cssController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/theme.css
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 03:35:36 Error: [MissingActionException] Action UsersController::user() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'user',
+)
+Request URL: /clinica/users/user
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-25 03:35:41 Error: [MissingActionException] Action UsersController::users() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'users',
+)
+Request URL: /clinica/users/users
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-25 04:05:28 Error: [MissingActionException] Action UsersController::clientes() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'clientes',
+)
+Request URL: /clinica/users/clientes
+Stack Trace:
+#0 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\clinica\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-10-25 04:05:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 04:08:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 04:09:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 04:09:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-25 04:12:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-26 16:17:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-26 16:21:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-26 16:21:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-26 16:22:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-26 16:25:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-26 16:26:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /clinica/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\wamp\www\clinica\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-30 00:06:16 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[28000] [1045] Access denied for user \'root\'@\'localhost\' (using password: NO)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/clinica/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /var/www/clinica/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /var/www/clinica/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /var/www/clinica/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /var/www/clinica/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /var/www/clinica/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#6 /var/www/clinica/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#7 /var/www/clinica/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('User', 'fields')
+#8 /var/www/clinica/app/View/Users/login.ctp(4): FormHelper->create('User', Array)
+#9 /var/www/clinica/lib/Cake/View/View.php(929): include('/var/www/clinic...')
+#10 /var/www/clinica/lib/Cake/View/View.php(891): View->_evaluate('/var/www/clinic...', Array)
+#11 /var/www/clinica/lib/Cake/View/View.php(462): View->_render('/var/www/clinic...')
+#12 /var/www/clinica/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#13 /var/www/clinica/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#14 /var/www/clinica/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/clinica/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-10-30 23:58:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/ico/favicon.png
+Stack Trace:
+#0 /var/www/clinica/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-30 23:59:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/ico/favicon.png
+Stack Trace:
+#0 /var/www/clinica/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-31 00:04:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/ico/favicon.png
+Stack Trace:
+#0 /var/www/clinica/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-31 00:32:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/ico/favicon.png
+Stack Trace:
+#0 /var/www/clinica/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
