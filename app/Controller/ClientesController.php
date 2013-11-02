@@ -12,8 +12,8 @@
  */
 class ClientesController extends AppController {
 
-    public $helpers = array('Html', 'Form', 'Session');
-    public $components = array('Paginator');
+    public $helpers = array('Html', 'Form', 'Session', 'Js');
+    public $components = array('Paginator', 'RequestHandler');
     public $paginate = array(
         'limit' => 5,
         'order' => array('Cliente.id' => 'desc')
@@ -40,10 +40,18 @@ class ClientesController extends AppController {
         if ($this->request->is('post')) {
             $this->Cliente->create();
             if ($this->Cliente->save($this->request->data)) {
-                $this->Session->setFlash('Cliente registrado.', 'alert_success');
-                return $this->redirect(array('action' => 'index'));
+                if($this->RequestHandler->isAjax()){
+                    sleep(2);
+                    $this->render('success', 'ajax');
+                }
+                else{
+                    $this->Session->setFlash('Cliente registrado.', 'alert_success');
+                    return $this->redirect(array('action' => 'index'));
+                }
             }
-            $this->Session->setFlash('No se pudo registrar cliente.', 'alert-danger');
+            else{
+                $this->Session->setFlash('No se pudo registrar cliente.', 'alert-danger');
+            }
         }
     }
 

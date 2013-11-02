@@ -36,6 +36,7 @@
         echo $this->Html->meta('icon');
 
         echo $this->Html->css(array('bootstrap.min', 'bootstrap-theme.min', 'theme'));
+        echo $this->Html->script(array('jquery', 'bootstrap.min', 'holder'));        
 
         echo $this->fetch('meta');
         echo $this->fetch('css');
@@ -46,7 +47,7 @@
           <script src="../../assets/js/html5shiv.js"></script>
           <script src="../../assets/js/respond.min.js"></script>
         <![endif]-->
-
+        <?php echo $this->Js->writeBuffer(array('cache'=>TRUE)) ?>
     </head>
     <body>
         <div id="container">
@@ -114,8 +115,6 @@
 
         </div>
         <?php // echo $this->element('sql_dump'); ?>
-
-        <?php echo $this->Html->script(array('jquery', 'bootstrap.min', 'holder')); ?>
     </body>
 </html>
 

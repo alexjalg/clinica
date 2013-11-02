@@ -43,25 +43,10 @@
                     </tr>
                 <?php endforeach ?>
             </tbody>
-        </table>
-        <?php
-echo $this->Paginator->numbers(array(
-    'before' => '<div class="pagination"><ul>',
-    'separator' => '',
-    'currentClass' => 'active',
-    'tag' => 'li',
-    'after' => '</ul></div>'
-));
-?>
-
+        </table> 
         <?php echo $this->Paginator->numbers(array('first' => 'First page')) ?>
-        <?php echo $this->Paginator->counter(array('format' => 'Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}')) ?>
-        <ul class="pagination">
-            <li class="disabled"><a href="#">&laquo;</a></li>
-            <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
-            <li class="disabled"><a href="#">2 </a></li>
-            <li class="disabled"><a href="#">&gneq;</a></li>
-        </ul>
+        <br />
+        <?php echo $this->Paginator->counter(array('format' => 'Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}')) ?> 
     </fieldset>
 </div>
 

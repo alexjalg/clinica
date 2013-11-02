@@ -18,11 +18,11 @@ class Cliente extends AppModel {
             'Ingrese el número de RUC.' => array(
                 'rule' => 'notEmpty',
                 'message' => 'Ingrese el número de RUC.'
-            ),
-            'EL RUC ya ha sido registrado.' => array(
+            )/*,
+              'EL RUC ya ha sido registrado.' => array(
                 'rule' => 'isUnique',
                 'message' => 'EL RUC ya ha sido registrado.'
-            )
+            )*/
         ),
         'cli_nombre' => array(
             'Ingrese el nombre completo.' => array(

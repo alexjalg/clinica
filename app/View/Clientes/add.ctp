@@ -1,3 +1,5 @@
+<div id="success"></div>
+
 <div style="text-align: right;">
     <?php echo $this->Html->link('Regresar', array('action' => 'index'), array('class'=>'btn btn-success btn-sm')) ?>
 </div>
@@ -26,5 +28,14 @@
     </div>
 
 </fieldset>
-<?php echo $this->Form->button('Registrar', array('type' => 'submit', 'class'=>'btn btn-primary')) ?>
+<?php // echo $this->Form->button('Registrar', array('type' => 'submit', 'class'=>'btn btn-primary')) ?>
+<?php echo $this->Js->submit('Send', array(
+    'before'=>$this->Js->get('#sending')->effect('fadeIn'),
+    'success'=>$this->Js->get('#sending')->effect('fadeOut'),
+    'update'=>'#success'
+)) 
+?>
+
+<div id="sending" style="display:none;background-color:lightgreen;">Sending...</div>
+
 
